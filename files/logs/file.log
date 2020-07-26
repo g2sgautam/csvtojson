@@ -1,0 +1,5 @@
+2020-07-26 06:35:16,795 - parse_csv - INFO - ID:3e95cc19c4b24ce098b79f4703e5ee8a FILENAME:data.csv Process Started
+2020-07-26 06:35:16,799 - parse_csv - INFO - ID:3e95cc19c4b24ce098b79f4703e5ee8a FILENAME:data.csv File Data Extracted Successfully
+2020-07-26 06:35:16,801 - parse_csv - INFO - ID:3e95cc19c4b24ce098b79f4703e5ee8a FILENAME:data.csv Data Cleaned Successfully
+2020-07-26 06:35:16,802 - parse_csv - INFO - ID:3e95cc19c4b24ce098b79f4703e5ee8a FILENAME:data.csv Hierarchies Created Successfully
+2020-07-26 06:35:16,803 - parse_csv - INFO - ID:3e95cc19c4b24ce098b79f4703e5ee8a FILENAME:data.csv Process Completed
