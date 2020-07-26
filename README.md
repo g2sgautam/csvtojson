@@ -1,10 +1,10 @@
 Program Execution instructions:
 
-1. Place your input file in **files\input** folder
+1. Place your input file in **files/input** folder
 2. In the **main.py** mention the name of the file
 3. Run the **main.py**
-4. Output will be json file at location **files\output** with 
-same filename as the input filename
+4. Output will be json file at location **files/output** with 
+same filename as the input filename and execution logs at **files/logs**
 
 To run test cases:
    **python -m pytest tests.py**
