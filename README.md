@@ -7,8 +7,7 @@ Program Execution instructions:
 same filename as the input filename
 
 To run test cases:
-
-python -m pytest tests.py
+   **python -m pytest tests.py**
 
 
 
