@@ -6,4 +6,10 @@ Program Execution instructions:
 4. Output will be json file at location **files\output** with 
 same filename as the input filename
 
+To run test cases:
+
+python -m pytest tests.py
+
+
+
 
